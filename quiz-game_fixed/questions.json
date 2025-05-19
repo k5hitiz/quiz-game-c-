@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Which software development model is also known as the 'linear sequential model'?",
+    "options": [
+      "Agile",
+      "Waterfall",
+      "Spiral",
+      "V-Model"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which phase of the SDLC involves defining the problem and requirements?",
+    "options": [
+      "Design",
+      "Implementation",
+      "Requirement Analysis",
+      "Testing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which diagram is used in UML to model dynamic behavior of a system?",
+    "options": [
+      "Class Diagram",
+      "Use Case Diagram",
+      "Sequence Diagram",
+      "Component Diagram"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the main goal of software testing?",
+    "options": [
+      "To prove the software works",
+      "To ensure software meets requirements",
+      "To detect errors",
+      "To develop new features"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a functional requirement?",
+    "options": [
+      "Login functionality",
+      "Password reset",
+      "System response time",
+      "User registration"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which model is best suited for small projects with clear requirements?",
+    "options": [
+      "Agile",
+      "Waterfall",
+      "Spiral",
+      "RAD"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In Agile, what is a 'sprint'?",
+    "options": [
+      "A planning session",
+      "A testing phase",
+      "A time-boxed development cycle",
+      "A design document"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which tool is commonly used for version control?",
+    "options": [
+      "Jira",
+      "Trello",
+      "Git",
+      "Docker"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does CI/CD stand for?",
+    "options": [
+      "Continuous Integration/Continuous Deployment",
+      "Code Inspection/Code Design",
+      "Continuous Improvement/Code Delivery",
+      "Component Integration/Continuous Development"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which software engineering principle means keeping things as simple as possible?",
+    "options": [
+      "DRY",
+      "KISS",
+      "SOLID",
+      "YAGNI"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In software engineering, what does concept number 11 relate to?",
+    "options": [
+      "Principle A11",
+      "Practice B11",
+      "Model C11",
+      "Tool D11"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In software engineering, what does concept number 12 relate to?",
+    "options": [
+      "Principle A12",
+      "Practice B12",
+      "Model C12",
+      "Tool D12"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In software engineering, what does concept number 13 relate to?",
+    "options": [
+      "Principle A13",
+      "Practice B13",
+      "Model C13",
+      "Tool D13"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In software engineering, what does concept number 14 relate to?",
+    "options": [
+      "Principle A14",
+      "Practice B14",
+      "Model C14",
+      "Tool D14"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In software engineering, what does concept number 15 relate to?",
+    "options": [
+      "Principle A15",
+      "Practice B15",
+      "Model C15",
+      "Tool D15"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In software engineering, what does concept number 16 relate to?",
+    "options": [
+      "Principle A16",
+      "Practice B16",
+      "Model C16",
+      "Tool D16"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In software engineering, what does concept number 17 relate to?",
+    "options": [
+      "Principle A17",
+      "Practice B17",
+      "Model C17",
+      "Tool D17"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In software engineering, what does concept number 18 relate to?",
+    "options": [
+      "Principle A18",
+      "Practice B18",
+      "Model C18",
+      "Tool D18"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In software engineering, what does concept number 19 relate to?",
+    "options": [
+      "Principle A19",
+      "Practice B19",
+      "Model C19",
+      "Tool D19"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In software engineering, what does concept number 20 relate to?",
+    "options": [
+      "Principle A20",
+      "Practice B20",
+      "Model C20",
+      "Tool D20"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In software engineering, what does concept number 21 relate to?",
+    "options": [
+      "Principle A21",
+      "Practice B21",
+      "Model C21",
+      "Tool D21"
+    ],
+    "answer": 1
+  }
+]
